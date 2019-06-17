@@ -1,0 +1,14 @@
+/.project
+/target/
+/.settings/
+/.classpath
+/.pmd
+/spring.log
+# Intellij
+.idea/
+*.iml
+*.iws
+/log.directory_IS_UNDEFINED/
+/.pmdruleset.xml
+/bin/
+.DS_Store
